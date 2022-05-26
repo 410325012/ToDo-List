@@ -2,7 +2,7 @@
 
 Heroku連結：https://to-do-list-20220526.herokuapp.com/todo
 
-(半小時內若無人使用，會自動進入休眠狀態。)
+(半小時內若無人使用，會自動進入休眠狀態，稍待片刻即喚醒進入。)
 
 ![alt text](https://github.com/410325012/ToDo-List/blob/main/demo.gif)
 
